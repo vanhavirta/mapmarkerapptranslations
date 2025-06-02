@@ -401,7 +401,7 @@ Meters
 ```
 translated (by human 👀) as:
 ```
-metriä
+metri(ä)
 ```
 
 
@@ -421,7 +421,7 @@ Feet
 ```
 translated (by human 👀) as:
 ```
-jalkaa
+jalka(a)
 ```
 
 
@@ -431,7 +431,7 @@ Miles
 ```
 translated (by human 👀) as:
 ```
-mailia
+maili(a)
 ```
 
 
@@ -591,7 +591,7 @@ FAQ/Help
 ```
 translated (by human 👀) as:
 ```
-Ohjeet ja UKK
+Ohjeet ja usein kysytyt kysymykset
 ```
 
 
@@ -771,7 +771,7 @@ Open the help page and see the FAQ
 ```
 translated (by human 👀) as:
 ```
-Avaa ohjesivu ja UKK
+Avaa ohjesivu ja usein kysytyt kysymykset
 ```
 
 
@@ -831,7 +831,7 @@ Share a snapshot of the map
 ```
 translated (by human 👀) as:
 ```
-Jaa tilannekatsaus
+Jaa tilannekatsaus (snapshot)
 ```
 
 
@@ -1947,7 +1947,7 @@ Square yard
 ```
 translated (by human 👀) as:
 ```
-Neliöjaardi
+neliöjaardi
 ```
 
 
@@ -1967,7 +1967,7 @@ Acre
 ```
 translated (by human 👀) as:
 ```
-Eekkeri
+eekkeri
 ```
 
 
@@ -1977,7 +1977,7 @@ Township
 ```
 translated (by human 👀) as:
 ```
-Township
+township
 ```
 
 
@@ -2197,7 +2197,7 @@ Land activities
 ```
 translated (by human 👀) as:
 ```
-Maa-aktiviteetit
+Manneraktiviteetit
 ```
 
 
@@ -3945,7 +3945,7 @@ Sync media download policy
 ```
 translated (by human 👀) as:
 ```
-Median synkronoinnin käytäntö
+Median synkronointikäytäntö
 ```
 
 
@@ -5289,7 +5289,7 @@ Display all editing shape points (slower)
 ```
 translated (by machine 🤖) as:
 ```
-Näytä kaikki muokkauspisteet (hitaammin)
+Näytä kaikki muokkauspisteet (voi toimia hitaammin)
 ```
 
 
