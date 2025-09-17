@@ -345,7 +345,7 @@ Käsitellään tietoja...
 ```
 You have unsaved modifications, do you want to save them?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Haluatko tallentaa muutokset?
 ```
@@ -388,7 +388,7 @@ Lähetä sähköpostia...
 You like the app?
 Rate it 5 stars :-)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Pidätkö sovelluksesta? 
 Anna sille viisi tähteä :-)
@@ -1399,7 +1399,7 @@ translated (by human 👀) as:
 ```
 A sync error occurred: the cloud data has been updated with a more recent version of the app. You must update Map Marker on this device to sync.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Tapahtui synkronointivirhe: pilvipalvelussa olevat tiedot on päivitetty käyttäen uudempaa sovellusversiota. Sinun on päivitettävä Map Marker synkronoidaksesti tiedot tähän laitteeseen.
 ```
@@ -3399,7 +3399,7 @@ It should only take a little bit of your time and will allow you to access searc
 
 Click the "Change source" button and then the "Tutorial" option to learn more.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Hakulähdettä ei ole määritetty tällä hetkellä. Jotta voit käyttää hakua, sinun on määritettävä kolmannen osapuolen hakulähde.
 
@@ -3617,7 +3617,7 @@ Valtava
 ```
 What format to you want to use to import?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Mitä tiedostomuotoa haluat käyttää tuontiin?
 ```
@@ -4629,7 +4629,7 @@ Maybe later, remind me
 ```
 translated (by human 👀) as:
 ```
-Ehkä myöhemmin, muistuta minua
+Ehkä myöhemmin, muistutapa minua
 ```
 
 
@@ -5247,7 +5247,7 @@ Katso yhteensopivuustiedot alta:
 ```
 Show data backup reminder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Näytä tietojen varmuuskopiointimuistutus
 ```
@@ -5257,9 +5257,9 @@ Näytä tietojen varmuuskopiointimuistutus
 ```
 Display all editing shape points (slower)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Näytä kaikki muokkauspisteet (hitaammin)
+Näytä kaikki muokkauspisteet (hitaampi)
 ```
 
 
@@ -5267,7 +5267,7 @@ Näytä kaikki muokkauspisteet (hitaammin)
 ```
 WebDAV server
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 WebDAV-palvelin
 ```
@@ -5277,7 +5277,7 @@ WebDAV-palvelin
 ```
 This allows you to sync to a WebDAV server by configuring access credentials.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Tämän avulla voit synkronoida WebDAV-palvelimen kanssa määrittämällä käyttöoikeustiedot.
 ```
@@ -5287,7 +5287,7 @@ Tämän avulla voit synkronoida WebDAV-palvelimen kanssa määrittämällä käy
 ```
 Enter configuration values
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Syötä määritysarvot
 ```
@@ -5297,7 +5297,7 @@ Syötä määritysarvot
 ```
 Required
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Pakollinen
 ```
@@ -5307,7 +5307,7 @@ Pakollinen
 ```
 Access code
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Pääsykoodi
 ```
@@ -5317,7 +5317,7 @@ Pääsykoodi
 ```
 Server URL
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Palvelimen URL-osoite
 ```
@@ -5327,7 +5327,7 @@ Palvelimen URL-osoite
 ```
 Username
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Käyttäjätunnus
 ```
@@ -5337,7 +5337,7 @@ Käyttäjätunnus
 ```
 Password
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Salasana
 ```
@@ -5347,7 +5347,7 @@ Salasana
 ```
 Geoapify
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Geoapify
 ```
@@ -5357,7 +5357,7 @@ Geoapify
 ```
 Geoapify Places Search API
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Geoapify Places Search API
 ```
@@ -5367,7 +5367,7 @@ Geoapify Places Search API
 ```
 Use native Google Maps view
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Käytä natiivia Google Maps-näkymää
 ```
@@ -5377,7 +5377,7 @@ Käytä natiivia Google Maps-näkymää
 ```
 This display mode might be slower but is less likely to cause app crashes
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Tämä näyttötila saattaa olla hitaampi, mutta aiheuttaa vähemmän todennäköisesti sovellusten kaatumisia.
 ```
@@ -5387,7 +5387,7 @@ Tämä näyttötila saattaa olla hitaampi, mutta aiheuttaa vähemmän todennäk�
 ```
 (current choice not applied, requires a full app restart)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 (nykyistä valintaa ei ole otettu käyttöön, vaatii sovelluksen täydellisen uudelleenkäynnistyksen)
 ```
