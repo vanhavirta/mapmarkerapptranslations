@@ -3617,7 +3617,7 @@ Valtava
 ```
 What format to you want to use to import?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Mitä tiedostomuotoa haluat käyttää tuontiin?
 ```
@@ -4729,7 +4729,7 @@ Minimum location accuracy
 ```
 translated (by human 👀) as:
 ```
-Pienin sijaintitarkkuus
+Lyhin sijaintitarkkuus
 ```
 
 
@@ -4739,7 +4739,7 @@ Minimum distance interval
 ```
 translated (by human 👀) as:
 ```
-Pienin etäisyysväli
+Lyhin etäisyysväli
 ```
 
 
@@ -4749,7 +4749,7 @@ Minimum time interval
 ```
 translated (by human 👀) as:
 ```
-Pienin aikaväli
+Lyhin aikaväli
 ```
 
 
@@ -5236,7 +5236,7 @@ See compatibility details below:
 ```
 translated (by human 👀) as:
 ```
-Näyttää siltä, että selaimesi ei ole täysin yhteensopiva - vain Google Chrome on testattu täysin yhteensopivaksi
+Näyttää siltä, että selaimesi ei ole täysin yhteensopiva — vain Google Chrome on testattu täysin yhteensopivaksi
 Katso yhteensopivuustiedot alta:
 
 %s
@@ -5247,7 +5247,7 @@ Katso yhteensopivuustiedot alta:
 ```
 Show data backup reminder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Näytä tietojen varmuuskopiointimuistutus
 ```
@@ -5257,9 +5257,9 @@ Näytä tietojen varmuuskopiointimuistutus
 ```
 Display all editing shape points (slower)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Näytä kaikki muokkauspisteet (hitaammin)
+Näytä kaikki muokkauspisteet (hitaampi)
 ```
 
 
@@ -5267,7 +5267,7 @@ Näytä kaikki muokkauspisteet (hitaammin)
 ```
 WebDAV server
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 WebDAV-palvelin
 ```
@@ -5277,7 +5277,7 @@ WebDAV-palvelin
 ```
 This allows you to sync to a WebDAV server by configuring access credentials.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Tämän avulla voit synkronoida WebDAV-palvelimen kanssa määrittämällä käyttöoikeustiedot.
 ```
@@ -5287,7 +5287,7 @@ Tämän avulla voit synkronoida WebDAV-palvelimen kanssa määrittämällä käy
 ```
 Enter configuration values
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Syötä määritysarvot
 ```
@@ -5297,7 +5297,7 @@ Syötä määritysarvot
 ```
 Required
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Pakollinen
 ```
@@ -5307,7 +5307,7 @@ Pakollinen
 ```
 Access code
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Pääsykoodi
 ```
@@ -5317,7 +5317,7 @@ Pääsykoodi
 ```
 Server URL
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Palvelimen URL-osoite
 ```
@@ -5327,7 +5327,7 @@ Palvelimen URL-osoite
 ```
 Username
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Käyttäjätunnus
 ```
@@ -5337,7 +5337,7 @@ Käyttäjätunnus
 ```
 Password
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Salasana
 ```
@@ -5347,7 +5347,7 @@ Salasana
 ```
 Geoapify
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Geoapify
 ```
@@ -5357,7 +5357,7 @@ Geoapify
 ```
 Geoapify Places Search API
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Geoapify Places Search API
 ```
@@ -5367,9 +5367,9 @@ Geoapify Places Search API
 ```
 Use native Google Maps view
 ```
-translated (by machine 🤖) as:
+translated (by human 👀 as:
 ```
-Käytä natiivia Google Maps-näkymää
+Käytä natiivia Google Maps -näkymää
 ```
 
 
@@ -5377,9 +5377,9 @@ Käytä natiivia Google Maps-näkymää
 ```
 This display mode might be slower but is less likely to cause app crashes
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Tämä näyttötila saattaa olla hitaampi, mutta aiheuttaa vähemmän todennäköisesti sovellusten kaatumisia.
+Tämä näyttötila saattaa olla hitaampi, mutta aiheuttaa todennäköisesti vähemmän sovelluksen kaatumisia.
 ```
 
 
@@ -5387,9 +5387,9 @@ Tämä näyttötila saattaa olla hitaampi, mutta aiheuttaa vähemmän todennäk�
 ```
 (current choice not applied, requires a full app restart)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-(nykyistä valintaa ei ole otettu käyttöön, vaatii sovelluksen täydellisen uudelleenkäynnistyksen)
+(nykyistä asetusta ei ole tallennettu vaatii sovelluksen uudelleenkäynnistyksen)
 ```
 
 
